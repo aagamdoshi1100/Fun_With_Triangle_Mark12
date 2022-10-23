@@ -22,7 +22,7 @@ function Squareit(){
     
         var HypoSide =FirstSide+SecondSide;
         Output.style.color="Green";
-        Output.innerText = "The length of hypotenuse is "+HypoSide;
+        Output.innerText = "The hypotenuse of triangle is "+HypoSide;
           }
     }
        
